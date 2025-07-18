@@ -106,3 +106,25 @@ This project presents a **hybrid deep learning pipeline** to detect and classify
 This hybrid approach shows promise for real-world agricultural diagnostics, especially where labeled data is scarce. Future work can explore domain adaptation and self-supervised learning to improve generalizability across different crop types.
 
 ---
+
+## 🤝 Contributing
+
+1. Fork the repository on GitHub  
+2. Open the Colab notebook via your fork (you can use "Open in Colab" badge if available)  
+3. Make your changes in the notebook  
+4. Save the notebook to your forked repository (use **File > Save a copy in GitHub**)  
+5. Create a pull request from your fork to the main repository  
+
+For any questions or suggestions, feel free to reach out: **[gupta.aakanksha2003@gmail.com](mailto:gupta.aakanksha2003@gmail.com)**
+
+
+---
+
+## 📜 License
+
+Licensed under the MIT License – see `LICENSE` file for details.
+
+---
+
+
+
