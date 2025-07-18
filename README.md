@@ -15,22 +15,6 @@ This project implements a **hybrid deep learning system** for classifying visual
 
 ---
 
-## 📁 Dataset Structure
-
-Organize your dataset on Google Drive like this:
-
-/MyDrive/pear/
-├── DiseaseA/
-│ ├── image1.jpg
-│ └── image2.jpg
-├── DiseaseB/
-│ ├── image1.jpg
-│ └── image2.jpg
-
-
-Each folder must represent a unique disease class.
-
----
 
 ## 🚀 How to Run on Google Colab
 
